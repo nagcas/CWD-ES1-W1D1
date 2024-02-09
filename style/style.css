@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.question {
+    border: 1px solid #10101010;
+    background-color: #10101010;
+    border-radius: 20px;
+    margin: 40px 40px;
+    padding: 20px;
+}
+
+.question h3 {
+    margin-top: 20px;
+}
+
+.question span {
+    font-weight: bold;
+}
+
+.null, .undefined {
+    display: block;
+    margin: 10px;
+} 
+
+.variable {
+    color: #1843d3e7;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    padding: 20px;
+}
+
